@@ -3,7 +3,7 @@
   <img src="https://te.legra.ph/file/6abba9817014d0960e767.jpg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
-  <b> ᴛᴏɴy v9 </b>
+  <b> ᴛᴏᴠɪɴᴏ ᴠ9 </b>
 </h1>
 
 
